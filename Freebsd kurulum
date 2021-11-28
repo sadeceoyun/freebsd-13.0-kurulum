@@ -2,6 +2,12 @@ sıfır vdi oluşturmak için
 
 öneri freebsd 13.0
 
+putty erişim
+ee /etc/ssh/sshd_config
+#PermitRootLogin no
+değiştir.
+PermitRootLogin yes
+
 env PAGER=cat freebsd-update fetch
 
 freebsd-update install
