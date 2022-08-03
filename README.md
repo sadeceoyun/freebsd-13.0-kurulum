@@ -1,1 +1,1 @@
-Tavsiye olarak freebsd 13.0
+Tavsiye olarak freebsd 13.1
