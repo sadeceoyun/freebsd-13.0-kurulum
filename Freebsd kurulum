@@ -16,4 +16,4 @@ reboot
 
 pkg update -f
 
-pkg install gdb gcc gcc8 gcc9 gcc10 gcc11 gmake cmake openssl python subversion unzip devil unrar 
+pkg install gdb gcc gcc8 gcc9 gcc10 gcc11 gmake cmake openssl python subversion unzip devil unrar 7-zip mysql56-server
